@@ -11,11 +11,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 ## 💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------|---------|
-| Visão Geral do Curso | [Resumos]()|
-| Configurações Básicas do Git | [Resumos]()|
-| Introdução ao Git e GitHub | [Resumos]() |
-| Criando o Projeto Git e GitHub | [Resumo]() |
-| Trabalhando com Branchs | [Resumos]()|
+| Visão Geral do Curso | [Resumos](resumos/resumo1.md)|
+| Configurações Iniciais | [Resumos](resumos/resumo2.md)|
 
 ## 🌐 Links Úteis 
 - [Editor de Markdown Online](https://readme.so/pt/editor)
