@@ -20,7 +20,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 |-------|---------|
 | Visão Geral do Curso | [Resumos](resumos/resumo1.md)|
 | Configurações Básicas | [Resumos](resumos/resumo2.md)|
-|Primeiros Passos com Git e GitHub| [Resumos](resumos/resumo3.md)
+|Primeiros Passos com Git e GitHub| [Resumos](resumos/3-primeiros-passos-com-git/resumo3.md)
 |Trabalhando com Branchs|[Resumos](resumos/resumo4.md)
 
 ## 🌐 Links Úteis 
