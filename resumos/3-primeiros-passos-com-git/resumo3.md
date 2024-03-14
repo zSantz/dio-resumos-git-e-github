@@ -70,6 +70,5 @@ Este comando clona apenas a branch especificada do repositório remoto, reduzind
 <br>
 
 ____
-- - - 
 
 Agora, vamos avançar para a próxima parte e explorar como salvar suas alterações no repositório local, além de adicionar conteúdo novo. 💾✨ [Clique aqui](resumo3-1.md) para prosseguir!
