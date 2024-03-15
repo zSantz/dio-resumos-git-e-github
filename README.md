@@ -22,7 +22,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 | Configurações Básicas | [Resumos](resumos/resumo2.md)|
 |Primeiros Passos com Git e GitHub| [Resumos](resumos/3-primeiros-passos-com-git/resumo3.md)
 |Trabalhando com Branchs|[Resumos](resumos/resumo4.md)
-
+|Comandos Úteis no Dia a Dia | [Resumos](resumo5.md)|
 ## 🌐 Links Úteis 
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
